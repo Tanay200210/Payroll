@@ -2,7 +2,7 @@
 
 ### About Me
 
-Detail-oriented and analytically trained professional with a background in Economics and experience working with structured data in analytical and operational settings. Comfortable handling large datasets, ensuring accuracy, and reconciling inconsistencies using Excel and spreadsheet-based tools. Experienced in managing data workflows, maintaining consistency in records, and supporting time-sensitive processes. Familiar with payroll outputs through ADP and Workday, with a growing understanding of financial reporting, deductions, and compliance requirements.
+Analytically trained economics graduate with hands-on experience working with structured datasets in fast-paced environments. Skilled in Excel for cleaning, organizing, and reconciling data, with a consistent focus on accuracy and error resolution. Familiar with payroll systems such as ADP and Workday, and developing a practical understanding of deductions, reporting, and compliance. Works methodically and prioritizes getting numbers right before moving forward.
 
 ### Education
 
@@ -28,7 +28,10 @@ Post Graduate Diploma, Economics, Concordia University, Montreal, Canada (2023 t
 ### Projects
 **Optimal Pricing Strategy for a Local Gym**
 
-Developed a new pricing strategy for a local gym, using primary data collected through surveys. For this project, I surveyed 107 young people in the vicinity of the gym and gathered information on their preferences, expectations, budgets, etc. Personal information, such as names, phone numbers, etc, were not collected. Using insights from Behavioural Economics and using the concept of decoy pricing, a new pricing strategy was proposed. This set of prices was identical to the original set of prices, and had an additional option (the decoy option). The proposed strategy was associated with a revenue increment of over 10%.
+Analytical Project where I used:
+- Excel for clean up, primary analysis, and masking personal identifiable information
+- Used other analytical tools to analyse further
+- Ensured final outputs were accurate and usable
 
 [Optimal Pricing Strategy for a Local Gym](./Gym-Pricing-Strategy)
 
@@ -36,7 +39,7 @@ Tools used: Excel, and R.
 
 **Intercontinental Analysis of Conflict Data (How Media Freedom is affected by Conflicts)**
 
-For this project, I colleced data from multiple sources, combined them and cleaned and sorted them to prepare for analysis. Using regression analysis, it was shown that political instability and journalist fatalities were crucial in determining media freedom. The data was broken down by years by factoring them using R (to account for intertemporal trands) and was further broken down by continents (I created continental dummies in Excel). The results show that some continents have overall better freedom for journalism while some don't.
+Cleaned and structured dataset in Excel, identified inconsistencies, and ensured accuracy before analysis. Built summary tables to organize outputs clearly.
 
 [Conflict and Press Freedom](./Conflict-and-Press-Freedom)
 
@@ -54,16 +57,10 @@ Tools used: R
 
 ### Skills
 
-- Financial Analysis
-- Excel/ Google Sheets
-- R
-- Python 
-- SQL
-
-Tools for Visualization:
-- Tableau
-- Power BI
-- PowerPoint
+- Data cleaning and reconciliation using Excel  
+- Strong attention to accuracy and consistency  
+- Familiarity with payroll outputs (ADP, Workday)  
+- Understanding of deductions, taxes, and reporting basics  
 
 Languages:
 - English
