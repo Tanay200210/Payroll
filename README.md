@@ -2,7 +2,7 @@
 
 ### About Me
 
-Detail-oriented and analytically trained professional with a background in Economics and experience in data-driven and client-facing environments. Comfortable working with large datasets, interpreting trends, and building structured spreadsheets using Excel, Google Sheets, R, and SQL. Experienced in coordinating daily operations, managing requests, and maintaining accuracy in fast-paced settings. Strong communication skills with a practical understanding of pricing and market behavior, with a growing interest in logistics and supply chain operations.
+Detail-oriented and analytically trained professional with a background in Economics and experience working with structured data in analytical and operational settings. Comfortable handling large datasets, ensuring accuracy, and reconciling inconsistencies using Excel and spreadsheet-based tools. Experienced in managing data workflows, maintaining consistency in records, and supporting time-sensitive processes. Familiar with payroll outputs through ADP and Workday, with a growing understanding of financial reporting, deductions, and compliance requirements.
 
 ### Education
 
@@ -53,7 +53,8 @@ Tools used: R
 
 
 ### Skills
-Tools:
+
+- Financial Analysis
 - Excel/ Google Sheets
 - R
 - Python 
@@ -66,8 +67,8 @@ Tools for Visualization:
 
 Languages:
 - English
-- French
-- German
+- French (Intermediate)
+- German (Intermediate)
 
 
 ### Other Achievements
