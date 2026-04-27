@@ -10,6 +10,18 @@ Bachelor (Honours), Economics, Symbiosis College of Arts and Commerce, Pune, Ind
 
 Post Graduate Diploma, Economics, Concordia University, Montreal, Canada (2023 to 2025)
 
+### Certifications
+
+Google Data Analysis Course
+[My Certificate](./Google)
+
+The Open University: Learn to Code for Data Analysis
+[My Certificate](./OpenUni)
+
+Meghnad Desai Academy of Economics: Econometrics for Policy using R
+[My Certificate](./Econometrics)
+
+
 ### Work Experience
 **Data Analysis Internship @ KPMG** 
 - Data	Quality	Assessment	
